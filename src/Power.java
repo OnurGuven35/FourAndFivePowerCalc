@@ -16,7 +16,7 @@ public class Power {
                 System.out.print(i + ",");
             }
 
-            System.out.println("");
+            System.out.println();
             System.out.print("5'in Usleri : ");
 
             for (int i = 1; i <= n; i *= 5) {
